@@ -1,0 +1,6 @@
+#ifndef CLSSALA_H_INCLUDED
+#define CLSSALA_H_INCLUDED
+
+
+
+#endif // CLSSALA_H_INCLUDED
